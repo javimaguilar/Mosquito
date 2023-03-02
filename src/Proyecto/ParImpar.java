@@ -21,6 +21,8 @@ public class ParImpar {
 			System.out.println("El numero es impar");
 		}
 		tecla.close();
+		
+		System.out.println("PUNTO 5");
 	}
 
 }
